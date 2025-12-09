@@ -19,7 +19,7 @@ function mostrarAlert() {
 
 
 function enviarCorreo() {
-    var email = 'carmen.tandemaran@gmail.com';
+    var email = 'cruizgon.dam@gmail.com';
     window.location.href = 'mailto:' + email;
 }
 
